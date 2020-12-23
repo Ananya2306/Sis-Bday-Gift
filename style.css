@@ -1,0 +1,14 @@
+
+html, body {
+  margin: 15px 215px;
+  padding: 10px;
+ 
+ background-image: linear-gradient(to bottom right, #ff2600, #ff0281);
+}
+canvas {
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-top: 0px;
+  border: 5px solid #00ffd9;
+  border-radius: 30px;
+}
